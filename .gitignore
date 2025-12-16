@@ -1,0 +1,8 @@
+.env
+__pycache__/
+runs/
+box_detection_tracking-2/
+*.pt
+*.onnx
+.ipynb_checkpoints/
+.venv/

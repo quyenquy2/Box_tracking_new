@@ -1,0 +1,9 @@
+#python -m venv .venv
+#.venv\Scripts\activate or .venv\Scripts\activate.bat
+#pip install -r requirements.txt
+
+ultralytics
+roboflow
+python-dotenv
+torch
+opencv-python
